@@ -58,11 +58,11 @@ end of the quarter.
 |--|--|
 |1|[TODO: Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[TODO: Twitter Firehose]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[TODO: Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})|
-|4|[TODO: Graph Invariants as Measurements]({{ "/weeks/04-Graph-Features" | absolute_url }})|
-|5|[TODO: Building a Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|[TODO: Evalulating the HinDroid Result]({{ "/weeks/06-Hindroid" | absolute_url }})|
-|7|[TODO: Graph Embedding I: node2vec]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})|
-|8|[TODO: Graph Embedding II: metapath2vec]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})|
-|9|[TODO: Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})|
+|3|[TODO: ]({{ "/weeks/03-" | absolute_url }})|
+|4|[TODO: ]({{ "/weeks/04-" | absolute_url }})|
+|5|[TODO: ]({{ "/weeks/05-" | absolute_url }})|
+|6|[TODO: ]({{ "/weeks/06-" | absolute_url }})|
+|7|[TODO: ]({{ "/weeks/07-" | absolute_url }})|
+|8|[TODO: ]({{ "/weeks/08-" | absolute_url }})|
+|9|[TODO: ]({{ "/weeks/09-" | absolute_url }})|
 |10|Present Proposals|
