@@ -4,15 +4,15 @@
 
 This week, we'll be introduced to the paper and prepare to collect a Twitter dataset. We'll:
 
-* get set up to download data from the Twitter API;
-* get started with Astra streaming
+* get set up to download data from the [Twitter API](https://developer.twitter.com/en/apply-for-access);
+* get set up with [Astra streaming](https://astra.datastax.com/registerStreaming)
 * start reading the background paper that we'll base our work in.
 
 ## Readings
 
 Please read the following before our next meeting:
 
-* To use the Twitter API, you must be approved for developer access. Read the instructions here and apply for a single-user developer key.
+* To use the Twitter API, you must be approved for developer access. Read the instructions [here](https://developer.twitter.com/en/apply-for-access) and apply for a single-user developer key.
 You will be asked several questions about how you will use the API; 
 the approval process is done by humans, so the quality of your answers is very important. 
 Here are some tips:
