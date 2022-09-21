@@ -57,7 +57,7 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Twitter Firehose]({{ "/weeks/02-Data" | absolute_url }})|
+|2|[Twitter Firehose]({{ "/weeks/02-Twitter-Data" | absolute_url }})|
 |3|[TODO: ]({{ "/weeks/03-" | absolute_url }})|
 |4|[TODO: ]({{ "/weeks/04-" | absolute_url }})|
 |5|[TODO: ]({{ "/weeks/05-" | absolute_url }})|
