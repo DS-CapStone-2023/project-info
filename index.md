@@ -71,8 +71,8 @@ First set of Participation Questions are due on Week 2**
 |Week|Topic|
 |--|--|
 |1|[Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Twitter Firehose]({{ "/weeks/02-Twitter-Data" | absolute_url }})|
-|3|[TBD ]({{ "/weeks/03-" | absolute_url }})|
+|2|[Streaming]({{ "/weeks/02-Streaming" | absolute_url }})|
+|3|[Twitter Firehose ]({{ "/weeks/03-Firehose" | absolute_url }})|
 |4|[TBD ]({{ "/weeks/04-" | absolute_url }})|
 |5|[TBD: ]({{ "/weeks/05-" | absolute_url }})|
 |6|[TBD: ]({{ "/weeks/06-" | absolute_url }})|
