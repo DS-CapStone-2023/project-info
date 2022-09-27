@@ -4,8 +4,8 @@
 
 This week, we'll be introduced to the paper and prepare to collect a Twitter dataset. We'll:
 
+* start reading the sentiment analysis paper that we'll base our work on.
 * get set up to download data from the [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api);
-* start reading the paper that we'll base our work in.
 
 ## Readings
 
