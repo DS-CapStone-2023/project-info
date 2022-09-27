@@ -14,7 +14,7 @@ Please read the following before our next meeting:
 * Read the paper we are replicating [Employee Sentiment Analysis Towards Remote Work during COVID-19 Using
 Twitter Data](https://inass.org/wp-content/uploads/2021/12/2022022808.pdf)
 
-* To use the Twitter API, you must be approved for developer access. Read the instructions [here](https://developer.twitter.com/en/apply-for-access) and apply for a single-user developer key.
+* To use the Twitter API, you must be approved for developer access. Read the instructions [here](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api) and apply for a single-user developer key.
 You will be asked several questions about how you will use the API; 
 the approval process is done by humans, so the quality of your answers is very important. 
 Here are some tips:
