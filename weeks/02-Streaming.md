@@ -1,11 +1,10 @@
-# Week 2 - Twitter Firehose
+# Week 2 - Streaming
 
 ## Topics
 
 This week, we'll be introduced to the paper and prepare to collect a Twitter dataset. We'll:
 
 * get set up to download data from the [Twitter API](https://developer.twitter.com/en/apply-for-access);
-* get set up with [Astra streaming](https://astra.datastax.com/registerStreaming)
 * start reading the paper that we'll base our work in.
 
 ## Readings
