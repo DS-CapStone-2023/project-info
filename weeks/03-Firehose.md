@@ -10,7 +10,7 @@ This week we will be setting up basic functions for Astra Streaming
 Please read the following requierement up your basic functions in Astra Streaming:
 
 ### Requirement:
-- Able to start a python virtual environment with the latest Pulsar Python Client 2.10.1 following this [tutorial]{https://pulsar.apache.org/docs/client-libraries-python/#install}
+- Able to start a python virtual environment with the latest Pulsar Python Client 2.10.1 following this [tutorial](https://pulsar.apache.org/docs/client-libraries-python/#install)
 
 |Platform |Supported Python Versions|
 |-|-|
@@ -18,7 +18,7 @@ Please read the following requierement up your basic functions in Astra Streamin
 |Linux|	2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9|
 
 ### Setting up python environment:
-1. Get the code from our [repository]{https://github.com/ucsd-capstone-datastax/prototypes}  
+1. Get the code from our [repository](https://github.com/ucsd-capstone-datastax/prototypes) 
   
   ```
   $ gh repo clone DS-CapStone-2023/project-info
@@ -51,7 +51,7 @@ Please read the following requierement up your basic functions in Astra Streamin
 
 ### Instructions:
 
-https://docs.google.com/document/d/1VS31dXTIAmEkIh9o_9FcAhD-rVvcmnTo_Zm1zSMgCmY/edit
+[Google Docs](https://docs.google.com/document/d/1VS31dXTIAmEkIh9o_9FcAhD-rVvcmnTo_Zm1zSMgCmY/edit)
 
 
 ## Discussion Questions
