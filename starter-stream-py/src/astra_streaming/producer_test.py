@@ -14,7 +14,7 @@ class Producer(object):
     def __init__(self):
         self.token = os.getenv("ASTRA_STREAMING_TOKEN")
         self.service_url = os.getenv("ASTRA_STREAMING_URL")
-        self.topic = 'persistent://twitter-test/default/twitter-test-topic'
+        self.topic = os.getenv("ASTRA_TOPIC")
         self.client = pulsar.Client(self.service_url,
                                     authentication=pulsar.AuthenticationToken(self.token))
         self.producer = self.client.create_producer(self.topic)

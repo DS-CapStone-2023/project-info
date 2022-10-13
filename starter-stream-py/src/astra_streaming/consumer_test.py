@@ -12,7 +12,7 @@ class Consumer(object):
     def __init__(self):
         self.token = os.getenv("ASTRA_STREAMING_TOKEN")
         self.service_url = os.getenv("ASTRA_STREAMING_URL")
-        self.subscription = 'persistent://twitter-test/default/counter-test-topic'
+        self.subscription =  os.getenv("ASTRA_TOPIC")
         self.client = pulsar.Client(self.service_url,
                                     authentication=pulsar.AuthenticationToken(self.token))
         self.consumer = self.client.subscribe(self.subscription, 'my-subscription')
