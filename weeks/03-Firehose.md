@@ -24,16 +24,16 @@ Please read the following requierement up your basic functions in Astra Streamin
   $ gh repo clone DS-CapStone-2023/project-info
   ```
 
-2. Go to start-stream-py
+2. Go to starter-stream-py
 
   ```
-  $ cd project-info/start-stream-py
+  $ cd project-info/starter-stream-py
   ```
 
 3. Create your python virtual environment here
 
   ```
-  $ python3.9 virtualenv <env_name>
+  $ python3.9 -m venv <env_name>
   ```
 
 4. Activate your newly created environment
@@ -44,9 +44,8 @@ Please read the following requierement up your basic functions in Astra Streamin
 
 5. If you have not installed Pulsar Python client, you should do so in your virtualenv.  
   
-  * From requirements.txt:  
   ```
-  $ pip install pulsar-client==2.10.1  
+  $ pip3.9 install pulsar-client==2.10.1  
   ```
 
 ### Instructions:
