@@ -22,15 +22,14 @@ This week we will be continuing the demo from where we left off setting up authe
 
 Please read the following requirement to set up your basic functions in Astra Streaming:
 
-### Requirement:
-- Created a python virtual environment with the latest Pulsar Python Client 2.10.1 following this [tutorial](https://pulsar.apache.org/docs/client-libraries-python/#install)
+* Imported Astra streaming authentication as environment variables in your shell system
+* Created a python virtual environment with the latest Pulsar Python Client 2.10.1 following this [tutorial](https://pulsar.apache.org/docs/client-libraries-python/#install)
 
 |Platform |Supported Python Versions|
 |-|-|
 |MacOS 10.13 (High Sierra), 10.14 (Mojave) | 2.7, 3.7, 3.8, 3.9|
 |Linux|	2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9|
 
-- Imported Astra streaming authentication as environment variables in your shell system
 
 ### Instructions:
 
