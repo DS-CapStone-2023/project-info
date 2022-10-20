@@ -33,6 +33,9 @@ Twitter Data](https://inass.org/wp-content/uploads/2021/12/2022022808.pdf)
 
 * Machine Learning Tools: [Huging Face](https://huggingface.co/docs/transformers/index)
 * Visualization samples: [Observable (samples of D3.js)](https://observablehq.com/explore)
+* Twitter API in POSTMAN: [POSTMAN Twitter API Samples](https://t.co/twitter-api-postman)
+* HTTP requests in Python: [Python Request Library](https://realpython.com/python-requests/#the-get-request)
+* Feature Store: [Feast](https://feast.dev/blog/what-is-a-feature-store/)
 
 ## Introduction
 
