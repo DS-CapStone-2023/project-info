@@ -52,7 +52,7 @@ Describe in detail:
 
 You do not have to submit this at Gradescope, but you should attempt doing these items to get started on your project:
 
-1. Start consuming data from the twitter API and see hook it up the feed into a Pulsar streaming topic via a Python script or some other methods.
+1. Start consuming data from the twitter API and hook it up the feed into a Pulsar streaming topic via a Python script or some other methods.
 2. Start sketching out your classification (or training) pipelines. Document this in a way that can be useful for your proposal. Visual narratives are powerful and should be part of any good presentation. Clarity around active processing elements, data flows, and key responsibilities is crucial.
 
 When designing and coding your solution, always keep in mind the **4 project requirements** outlined above:
