@@ -46,6 +46,7 @@ While you can take various creative liberties with the project, essential **requ
 
 * Project objective is framed around remote work within context of Covid-19.
 * Demonstrate the sentiment analysis methods described in the research paper.
+* Your results must answer your defined objective, i.e. what is the sentiment of the population you are analyzing towards remote work within your own Covid-19 context.
 * Use the Twitter API for your raw input stream.
 * Use a streaming function for your classification pipeline.
 
