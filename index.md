@@ -37,6 +37,20 @@ Twitter Data](https://inass.org/wp-content/uploads/2021/12/2022022808.pdf)
 * HTTP requests in Python: [Python Request Library](https://realpython.com/python-requests/#the-get-request)
 * Feature Store: [Feast](https://feast.dev/blog/what-is-a-feature-store/)
 
+## Quarter 1 Requirement
+
+For Quarter 1 you are replicating [Employee Sentiment Analysis Towards Remote Work during COVID-19 Using
+Twitter Data](https://inass.org/wp-content/uploads/2021/12/2022022808.pdf) 
+
+While you can take various creative liberties with the project, essential **requirements** for the Quarter 1 paper replication are specifically:
+
+* Project objective is framed around remote work within context of Covid-19.
+* Demonstrate the sentiment analysis methods described in the research paper.
+* Use the Twitter API for your raw input stream.
+* Use a streaming function for your classification pipeline.
+
+Your Quarter 1 Checkpoint which consists of a Working Title, Abstract and Introduction should drive the content of your replication and report.
+
 ## Introduction
 
 Hello students! Welcome to industry Capstone with DataStax. Your Data Science Capstone industry mentors for the next two terms will be Derrick Cosmas and Jonathan Shook, both from DataStax. We will also have Justin Eldrdige from UCSD to assist during discussion and office hours.
@@ -78,7 +92,7 @@ First set of Participation Questions are due on Week 2**
 |3|[Twitter Firehose ]({{ "/weeks/03-Firehose" | absolute_url }})|
 |4|[Streaming Demo Pt 2 ]({{ "/weeks/04-Streaming-Demo" | absolute_url }})|
 |5|[Structured Data ]({{ "/weeks/05-Structured-Data" | absolute_url }})|
-|6|[TBD: ]({{ "/weeks/06-" | absolute_url }})|
+|6|[Scaling ]({{ "/weeks/06-Scaling" | absolute_url }})|
 |7|[TBD: ]({{ "/weeks/07-" | absolute_url }})|
 |8|[TBD: ]({{ "/weeks/08-" | absolute_url }})|
 |9|[TBD: ]({{ "/weeks/09-" | absolute_url }})|
