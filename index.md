@@ -94,7 +94,7 @@ First set of Participation Questions are due on Week 2**
 |4|[Streaming Demo Pt 2 ]({{ "/weeks/04-Streaming-Demo" | absolute_url }})|
 |5|[Structured Data ]({{ "/weeks/05-Structured-Data" | absolute_url }})|
 |6|[Scaling ]({{ "/weeks/06-Scaling" | absolute_url }})|
-|7|[TBD: ]({{ "/weeks/07-" | absolute_url }})|
+|7|[Integration Check ]({{ "/weeks/07-Progress-1" | absolute_url }})|
 |8|[TBD: ]({{ "/weeks/08-" | absolute_url }})|
 |9|[TBD: ]({{ "/weeks/09-" | absolute_url }})|
 |10|Present Proposals|
