@@ -44,11 +44,14 @@ Twitter Data](https://inass.org/wp-content/uploads/2021/12/2022022808.pdf)
 
 While you can take various creative liberties with the project, essential **requirements** for the Quarter 1 paper replication are specifically:
 
-* Project objective is framed around remote work within context of Covid-19.
-* Demonstrate the sentiment analysis methods described in the research paper.
+* Project objective is framed around remote work within the context of Covid-19.
+* Demonstrate the sentiment analysis methods described in the research paper. You can use a sentiment analysis model from HuggingFace
 * Your results must answer your defined objective, i.e. what is the sentiment of the population you are analyzing towards remote work within your own Covid-19 context.
 * Use the Twitter API for your raw input stream.
 * Use a streaming function for your classification pipeline.
+
+What is OPTIONAL for Quarter 1:
+* Training or modifying a baseline sentiment analysis model to improve accuracy or results
 
 Your Quarter 1 Checkpoint which consists of a Working Title, Abstract and Introduction should drive the content of your replication and report.
 
