@@ -55,6 +55,28 @@ What is OPTIONAL for Quarter 1:
 
 Your Quarter 1 Checkpoint which consists of a Working Title, Abstract and Introduction should drive the content of your replication and report.
 
+## Quarter 2 Requirement and Proposal
+
+For Quarter 2, your project is more open ended than quarter 1. The objective topic is no longer limited to remote work and sentiment analysis.
+
+While you can continue with the same topic frame regarding remote work sentiment inside the context of Covid-19, we encouraged you to be more creative and explore other topics of interest.
+
+What is required for Quarter 2 Project:
+
+- Demonstrate the use of Astra Streaming features (producer, consumer and functions) as the tools to stream data within your pipeline
+
+We encouraged you to integrate more features to your project such as:
+
+- Hosting your visualization results on a website 
+- Collecting data streams to a feature store / database
+
+With quarter 2 project potentially larger in scope and requirements, you can utilize some code of what you have already built such as:
+
+- Tweets / message producer (Project do not have to involve analyzing tweets)
+- NLP preprocessing i.e. discarding irrelevant inputs, tokenizing, lemmatizing
+
+It will be beneficial for you to submit a thorough Quarter 2 proposal so that the teaching staff can provide timely and constructive feedback.
+
 ## Introduction
 
 Hello students! Welcome to industry Capstone with DataStax. Your Data Science Capstone industry mentors for the next two terms will be Derrick Cosmas and Jonathan Shook, both from DataStax. We will also have Justin Eldrdige from UCSD to assist during discussion and office hours.
@@ -98,6 +120,6 @@ First set of Participation Questions are due on Week 2**
 |5|[Structured Data ]({{ "/weeks/05-Structured-Data" | absolute_url }})|
 |6|[Scaling ]({{ "/weeks/06-Scaling" | absolute_url }})|
 |7|[Integration Check ]({{ "/weeks/07-Progress-1" | absolute_url }})|
-|8|[TBD: ]({{ "/weeks/08-" | absolute_url }})|
-|9|[TBD: ]({{ "/weeks/09-" | absolute_url }})|
-|10|Present Proposals|
+|8|[Iteration and Integration]({{ "/weeks/08-Iteration" | absolute_url }})|
+|9|Thanksgiving Break - No Class|
+|10|[Last Working Session]({{ "/weeks/10-Work-Session" | absolute_url}})|
