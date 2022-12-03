@@ -53,7 +53,29 @@ While you can take various creative liberties with the project, essential **requ
 What is OPTIONAL for Quarter 1:
 * Training or modifying a baseline sentiment analysis model to improve accuracy or results
 
-Your Quarter 1 Checkpoint which consists of a Working Title, Abstract and Introduction should drive the content of your replication and report.
+Quarter 1 Checkpoint which consists of a Working Title, Abstract and Introduction should drive the content of your replication and report.
+
+### Quarter 1 Project Submission
+
+Due to the streaming nature of our project, **code** submission criteria for DataStax industry capstone are different than what is outlined in DSC 180 course website. Your submission will be a code repo containing:
+
+1. Minimum of 3 Python files code: message producer, pulsar function and the ML classifier as consumer.
+
+2. README.
+   * Should contain requirements and how the code pieces fit together as a pipeline.
+   * Recommended to put a diagram of your architecture design.
+
+3. Video recording of end to end sentiment analysis demonstration using Astra Streaming. 
+   * Explain how the machineries are set up and working as a pipeline. 
+   * Overall, demonstrate to the audience how your code are generating results.
+   * Recording should only be 10 to 20 minutes.
+
+For the **report** there are some cosiderations to guide your writing:
+ 
+1. Report should follow similar format of the replication paper. 
+2. Results of your work must answer the initial question or hypothesis outlined in the preamble / problem statement.
+3. Double column format common in reserach publications are allowed.
+4. Approximately 4 to 8 pages long.
 
 ## Quarter 2 Requirement and Proposal
 
